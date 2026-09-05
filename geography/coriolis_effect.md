@@ -203,7 +203,7 @@ The correct rule is:
 
     Right in the Northern Hemisphere and left in the Southern Hemisphere.
 
-![coriolis effect](images/coriolis_effect_1_science_notes_org.png)
+![coriolis effect](https://github.com/ravichandrakorivi/upsc/raw/main/images/coriolis_effect_1_science_notes_org.png)
 
 
 *Figure 1: Apparent deflection of moving objects due to Earth's rotation.*
@@ -347,13 +347,13 @@ This contributes to the formation of the **Polar Easterlies**.
 
 Thus, the Coriolis effect is an essential component of the **three-cell model** of **global atmospheric circulation**.
 
-![planetary / prevailing winds](images/planetary_winds_1_uiuc.gif)
+![planetary / prevailing winds](https://github.com/ravichandrakorivi/upsc/raw/main/images/planetary_winds_1_uiuc.gif)
 
 *Figure 2: Planetary or Prevaling winds.*
 
 *Source: [uiuc.edu](http://ww2010.atmos.uiuc.edu/%28Gh%29/guides/mtr/hurr/mvmt.rxml)*
 
-![global atmospheric circulation](images/global_atmospheric_circulation_1_wiki.svg)
+![global atmospheric circulation](https://github.com/ravichandrakorivi/upsc/raw/main/images/global_atmospheric_circulation_1_wiki.svg)
 
 *Figure 3: Global atmospheric circulation.*
 
@@ -403,7 +403,7 @@ Therefore:
     Northern Hemisphere → Counterclockwise
     Southern Hemisphere → Clockwise
 
-![cyclone](images/cyclone_1_wikipedia.jpg)
+![cyclone](https://github.com/ravichandrakorivi/upsc/raw/main/images/cyclone_1_wikipedia.jpg)
 
 
 *Figure 4: An extratropical cyclone near Iceland.*
@@ -469,8 +469,7 @@ The formation of ocean gyres is therefore an example of the combined influence o
 
     Wind + Coriolis effect + continents/ocean-basin geometry
 
-![ocean gyre](images/ocean_gyres_1_open_geology_in.png)
-
+![ocean gyre](https://github.com/ravichandrakorivi/upsc/raw/main/images/ocean_gyres_1_open_geology_in.png)
 
 *Figure 5: Ocean gyres.*
 
