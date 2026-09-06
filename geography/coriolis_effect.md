@@ -435,9 +435,10 @@ This produces a **counterclockwise circulation** around the high-pressure centre
 | **High pressure / Anticyclone** | Clockwise           | Counterclockwise    |
 
 <div align="center">
+
 ![Cyclone & Anticyclone](https://github.com/ravichandrakorivi/upsc/raw/main/images/cyclone_anticyclone_rough.png)
 
-*Figure 6: Cyclone & Anticyclone.*
+*Figure 5: Cyclone & Anticyclone.*
 
 *Source: [shutterstock.com/](shutterstock.com/)*
 </div>
@@ -479,7 +480,7 @@ The Coriolis effect therefore helps explain why large-scale ocean circulation de
 
 ![ocean gyre](https://github.com/ravichandrakorivi/upsc/raw/main/images/ocean_gyres_1_open_geology_in.png)
 
-*Figure 5: Ocean gyres.*
+*Figure 6: Ocean gyres.*
 
 *Source: [opengeology.in](https://opengeology.in/circulation-or-ocean-gyres/#google_vignette)*
 
@@ -500,9 +501,10 @@ The Coriolis effect is therefore important for understanding:
 > **Key point:** Jet streams are not caused by the Coriolis effect alone. **Strong temperature/pressure gradients provide the driving force, while the Coriolis effect strongly influences the direction of their flow.**
 
 <div align="center">
+
 ![global jet streams](https://github.com/ravichandrakorivi/upsc/raw/main/images/global_jetstreams_1.png)
 
-*Figure 6: Global Jet Streams.*
+*Figure 7: Global Jet Streams.*
 
 *Source: [weather.gov](https://www.weather.gov/jetstream/jet)*
 </div>
